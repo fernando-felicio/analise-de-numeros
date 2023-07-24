@@ -16,7 +16,8 @@ public class Main {
 				System.out.println(numeroImpar);				
 			}			
 		}
-		
+		System.out.printf("O número analisado foi o %d%nA quantidade de números impar é de: %d",X, qtdImpar);
+
 		
 	}
 
